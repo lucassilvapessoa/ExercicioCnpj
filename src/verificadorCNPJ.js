@@ -29,7 +29,7 @@
         let numeroFinal = numeroAdicionadoComPrimeiroDigito.slice(0,numeroAdicionadoComPrimeiroDigito.length)
         numeroFinal.push(segundoDigito)
         let stringFinal = numeroFinal.join('')
-        return cnpj === stringFinal ? "CNPJ ESTÁ VERIFICADO" : "CPNJ INCORRETO"           
+        return cnpj === stringFinal ? "CNPJ CORRETO" : "CPNJ INCORRETO"           
     }
     module.exports = verifica
 
