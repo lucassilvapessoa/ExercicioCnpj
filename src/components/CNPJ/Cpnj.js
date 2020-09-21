@@ -21,7 +21,7 @@
       <Container className="#fafafa grey lighten-5">
       <h3>Exercício Cnpj</h3>
       <input  style={{fontSize:"25px"}} maxLength="20" placeholder="Digite o Cnpj" onChange={(e)=> setCpnj(e.target.value)}></input>
-        {verificacao === null ? <h4>Aguardando preenchimento...</h4> : <h4>{verificacao}</h4>}
+    {verificacao === null ? <h4>Aguardando preenchimento...</h4> : verificacao == "cnpj incorreto" ? <h4 style={{color:"red"}}>{verificacao}</h4> : <h4 style={{color:"green"}}>{verificacao}</h4>}
       </Container>
      </>
     )
