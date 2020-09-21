@@ -1,10 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 1-Baixa e tenha disponivel a pasta  Kaffa-Pre-qualification_test no ambiente de trabalho
+
 2-Utilizando  o terminal navegue até a pasta  Kaffa-Pre-qualification_test  e utilize o comando npm install(este comando irá instalar os modulos e tudo o que é necessario para a aplicação rodar no lado do Cliente(Front-End)
+
 3-Após a instalação utilize um npm start e aguarde então o inicio do app web.
+
 4-O Exercício Cnpj faz a verificação utilizando duas masks ou seja aceita tanto a forma em que o cnpj é digitado com hifen e ponto quanto somente digitando os números
+
 5-O Exercício Relogio Mundial faz a conexão na api http://worldtimeapi.org/api/timezone para retornar dados de data e horario atual
+
 6-O Exercício Detalhes de um projeto é um prototipo interativo
 
 7-O Exercício Cadastrar Tarefas
