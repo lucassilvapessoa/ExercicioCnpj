@@ -1,0 +1,16 @@
+    .lista{
+        width: 90%;
+        background-color:#6d4c41;
+        border-radius: 5px;
+        height: 60px;
+        margin-bottom: 5%;
+    }
+    .lista p{
+    position: relative;
+    color: #ffffff;
+    font-size: 35px;
+    }
+    .lista p span{
+        position: absolute;
+        right: 10px;
+    }
