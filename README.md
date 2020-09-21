@@ -14,6 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 7-O Exercício Cadastrar Tarefas
 Obs:Utilizei o Node js em conjunto com express e um arquivo.txt para fazer a persistência das tarefas para utilizar a aplicação siga os Dois Passos Abaixo
+
 1-Navegue até a Kaffa-Pre-qualification_test pelo terminal então vá para o diretorio Server e novamente de um npm install que irá instalar os modulos necessários para o ambiente server funcionar
 2-Após rode o comando node server.js
 3-Pronto com servidor rodando já se pode fazer inclusão e exclusões das tarefas.
