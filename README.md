@@ -47,6 +47,9 @@ Obs:Utilizei o Node js em conjunto com express e um arquivo.txt para fazer a per
 
 ![GIF 22-09-2020 06-13-24](https://user-images.githubusercontent.com/47755944/93864233-f394cd80-fc9a-11ea-9203-39fffd041e7e.gif)
 
+![tarefasDemonstraca](https://user-images.githubusercontent.com/47755944/93894771-7a5ea000-fcc5-11ea-99e4-8aa83fc8160c.gif)
+
+
 
 
 ## Available Scripts
