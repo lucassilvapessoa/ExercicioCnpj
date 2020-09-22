@@ -23,7 +23,7 @@ Obs:Utilizei o Node js em conjunto com express e um arquivo.txt para fazer a per
   
  <h2>1-Instalar os modulos e tudo que é necessario para iniciar o front-end da aplicação <h2/>
 
-![iniciandoAppWeb](https://user-images.githubusercontent.com/47755944/93868313-ab78a980-fca0-11ea-88b4-b1f7b69f2c0b.gif)
+
 
   
 
