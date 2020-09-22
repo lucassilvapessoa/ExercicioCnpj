@@ -22,12 +22,10 @@ Obs:Utilizei o Node js em conjunto com express e um arquivo.txt para fazer a per
 <h1>Telas de instalação<h1/>
   
  <h2>1-Instalar os modulos e tudo que é necessario para iniciar o front-end da aplicação <h2/>
-![InstalandoModulos](https://user-images.githubusercontent.com/47755944/93867757-e201f480-fc9f-11ea-98d6-6bd63bfa9554.gif)
-  
- <h2>2-Usar o comando npm start para iniciar o app web <h2/> 
-![iniciandoAppWeb](https://user-images.githubusercontent.com/47755944/93867747-df070400-fc9f-11ea-893d-41796dd0848f.gif)
 
-<hr/>
+![iniciandoAppWeb](https://user-images.githubusercontent.com/47755944/93868313-ab78a980-fca0-11ea-88b4-b1f7b69f2c0b.gif)
+
+  
 
 <h1> Telas Do Teste <h1/>
 
