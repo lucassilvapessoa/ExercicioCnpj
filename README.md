@@ -28,6 +28,10 @@ Obs:Utilizei o Node js em conjunto com express e um arquivo.txt para fazer a per
   
   ![InstalandoModulos](https://user-images.githubusercontent.com/47755944/93868749-4c676480-fca1-11ea-9b9a-60efbc65ae1b.gif)
   
+  <h2> Instale e rode o server web que foi feito para aplicacação de tarefas </h2>
+  
+  ![serverTarefas](https://user-images.githubusercontent.com/47755944/93878763-f8fd1280-fcb0-11ea-9da3-81d85a69496e.gif)
+  
   
   <h2> Após a instalação dos modulos utilize o comando npm start e aguarde o inicio da aplicação web <h2/>
   
