@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-1-Baixa e tenha disponivel a pasta  Kaffa-Pre-qualification_test no ambiente de trabalho
+1-Baixe e tenha disponivel a pasta  Kaffa-Pre-qualification_test no ambiente de trabalho
 
 2-Utilizando  o terminal navegue até a pasta  Kaffa-Pre-qualification_test  e utilize o comando npm install(este comando irá instalar os modulos e tudo o que é necessario para a aplicação rodar no lado do Cliente(Front-End)
 
