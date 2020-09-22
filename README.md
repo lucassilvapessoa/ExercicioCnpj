@@ -21,11 +21,9 @@ Obs:Utilizei o Node js em conjunto com express e um arquivo.txt para fazer a per
 
 <h1>Telas de instalação<h1/>
   
- <h2>1-Instalar os modulos e tudo que é necessario para iniciar o front-end da aplicação <h2/>
+ <h2> Com a pasta Kaffa-Pre-qualification_test disponivel o primeiro passo é Instalar os modulos e tudo que é necessario para iniciar o front-end da aplicação <h2/>
+  ![InstalandoModulos](https://user-images.githubusercontent.com/47755944/93868749-4c676480-fca1-11ea-9b9a-60efbc65ae1b.gif)
 
-
-
-  
 
 <h1> Telas Do Teste <h1/>
 
