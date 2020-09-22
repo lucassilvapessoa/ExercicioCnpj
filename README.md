@@ -49,6 +49,8 @@ Obs:Utilizei o Node js em conjunto com express e um arquivo.txt para fazer a per
 
 ![tarefasDemonstraca](https://user-images.githubusercontent.com/47755944/93894771-7a5ea000-fcc5-11ea-99e4-8aa83fc8160c.gif)
 
+![modelagemGerenciamentoDePedidos](https://user-images.githubusercontent.com/47755944/93935682-69308600-fcfb-11ea-8409-462130423e27.gif)
+
 
 
 
