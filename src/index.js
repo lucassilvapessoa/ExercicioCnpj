@@ -7,7 +7,7 @@
   import "materialize-css/dist/js/materialize.min.js"
   import "leaflet/dist/leaflet.css"
   import Tarefa from './components/ListaTarefa/Tarefa'
-
+  import Modelagem from './components/ModelagemGerenciamentoDePedidos/GerenciamentoPedidos'
 
   ReactDOM.render(
     <React.StrictMode>
@@ -21,6 +21,8 @@
      <br/>
      <br/>
      <Tarefa/>
+     <br></br>
+     <Modelagem/>
     </React.StrictMode>,
     document.getElementById('root')
   );
