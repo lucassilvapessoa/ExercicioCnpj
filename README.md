@@ -19,8 +19,6 @@ Obs:Utilizei o Node js em conjunto com express e um arquivo.txt para fazer a per
 2-Após rode o comando node server.js
 3-Pronto com servidor rodando já se pode fazer inclusão e exclusões das tarefas.
 
-![4fu5ns (1)](https://user-images.githubusercontent.com/47755944/93861995-cabf0900-fc97-11ea-9de1-6df146a7544c.gif)
-
 
 
 ## Available Scripts
